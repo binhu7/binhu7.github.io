@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Bin Hu Publications</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Bin Hu</div>
+<div class="menu-item"><a href="index.html">home</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="publications.html" class="current">Publications</a></div>
+<div class="menu-item"><a href="teaching.html">Teaching</a></div>
+</td>
+<td id="layout-content">
+  
+<h1>Publications <br /></h1>
+
+<p><a href="https://scholar.google.com/citations?user=o3tVp68AAAAJ&hl=en">My Google Scholar Profile</a></p>
+
+<ul>
+                      
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        B. Hu, S. Wright,  and L. Lessard, <a href="http://proceedings.mlr.press/v80/hu18b.html">``Dissipativity Theory for Accelerating Stochastic Variance Reduction: A Unified Analysis of SVRG and Katyusha Using Semidefinite Programs"</a>, International Conference on Machine Learning (ICML), 2018.<br /></p>
+                    </li>                         
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1">S. Cyrus, B. Hu, B. Van Scoy, and L. Lessard, <a href="https://arxiv.org/pdf/1710.04753.pdf"> A Robust Accelerated Optimization Algorithm
+for Strongly Convex Functions</a>, IEEE American Control Conference (ACC), 2018. <br /></p>
+                    </li>   
+                      
+                      <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu, P. Seiler, and L. Lessard, <a href="https://arxiv.org/pdf/1711.00987.pdf">Analysis of Approximate Stochastic Gradient Using
+Quadratic Constraints and Sequential Semidefinite Programs</a>, arxiv, 2017. <br /></p>
+                    </li>                       
+                      
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                        <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span> A. Sundararajan, B. Hu, and L. Lessard, <a href="https://ieeexplore.ieee.org/document/8262874/"> Robust convergence analysis of distributed optimization algorithms</a>, IEEE 55th Annual Allerton Conference on Communication, Control, and Computing, 2017.<br /></p>
+                    </li> 
+
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and L. Lessard, <a href = "http://proceedings.mlr.press/v70/hu17a.html">Dissipativity Theory for Nesterov’s Accelerated Method</a>,  International Conference on Machine Learning (ICML), 2017.<br /></p>
+                  </li>
+                      
+<li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu, P. Seiler, and A. Rantzer, <a href = "http://proceedings.mlr.press/v65/hu17b.html">A Unified Analysis of Stochastic Optimization Methods Using Jump System Theory and Quadratic Constraints</a>, Conference on Learning Theory (COLT), 2017.<br /></p>
+                  </li>
+                      
+                                        <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="1">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and L. Lessard, <a href = "https://ieeexplore.ieee.org/document/7963426/">Control Interpretations for First-Order Optimization Methods</a>, IEEE American Control Conference (ACC), 2017. <br /></p>
+                  </li>
+                      
+                                    <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu, M.J. Lacerda, and P. Seiler, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.3646">Robustness Analysis of Uncertain Discrete‐time Systems with Dissipation Inequalities and Integral Quadratic Constraints</a>, International Journal of Robust and Nonlinear Control, 2016.<br /></p>
+                  </li>
+                  
+                  
+                        <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="https://ieeexplore.ieee.org/document/7393522/">Exponential Decay Rate Conditions for Uncertain Linear Systems Using Integral Quadratic Constraints</a>, IEEE Transactions on Automatic Control, 2016.<br /></p>
+                  </li>
+                  
+                   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="https://www.sciencedirect.com/science/article/pii/S0951832015001179">Pivotal Decomposition for Reliability Analysis of Fault Tolerant Control Systems on Unmanned Aerial Vehicles</a>, Reliability Engineering & System Safety, 2015.<br /></p>
+                  </li>
+                  
+                   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="https://content.sciendo.com/view/journals/amcs/25/1/article-p103.xml">A Probabilistic Method for Certification of Analytically Redundant Systems</a>, International Journal of Applied Mathematics and Computer Science, 2015.<br /></p>
+                  </li>
+                  
+                   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="https://ieeexplore.ieee.org/document/6859292/">Worst-Case False Alarm Analysis of Fault Detection Systems</a>, IEEE American Control Conference (ACC), 2014.<br /></p>
+                  </li>
+                  
+                   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2014-0610">Certification Analysis for a Model-Based UAV Fault Detection System</a>, AIAA Guidance, Navigation, and Control Conference, 2014.<br /></p>
+                  </li>
+                  
+                   <li style="line-height: 17px; padding-left: 20px; text-indent: -15px; " class="full-width" value="7">
+                    <p style="text-indent: -15px; " class="paragraph_style_1"><span style="font-size: 14px; " class="Bullet"></span><span style="width: 3px; " class="inline-block"></span>B. Hu and P. Seiler, <a href="http://www.aem.umn.edu/people/SeilerControl/Papers/2013/HuSeiler_13Allerton_ProbabilityBoundsForFalseAlarmAnalysis.pdf">Probability Bounds for False Alarm Analysis of Fault Detection Systems
+</a>, IEEE 51st Annual Allerton Conference on Communication, Control, and Computing, 2013.<br /></p>
+                  </li>
+                  
+                  </ul>
+
+
+
+
+
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-49484039-2');
+</script>
+</td>
+</tr>
+</table>
+</body>
+</html>
