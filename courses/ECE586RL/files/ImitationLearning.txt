@@ -1,0 +1,11 @@
+Sergey Levine'S Lecture Note on Imitation Learning:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-2.pdf
+
+Imitation Learning Tutorial (By Yisong Yue and Hoang M. Le):
+https://sites.google.com/view/icml2018-imitation-learning/
+
+Generative Adversarial Imitation Learning (By Jonathan Ho and Stefano Ermon):
+https://arxiv.org/pdf/1606.03476.pdf
+
+Fast Policy Learning through Imitation and Reinforcement (By Ching-An Cheng, Xinyan Yan, Nolan Wagener, and Byron Boots):
+https://arxiv.org/pdf/1805.10413.pdf

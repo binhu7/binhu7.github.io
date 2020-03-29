@@ -1,0 +1,29 @@
+Sergey Levine's Lecture Note on Model-based Planing:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf
+
+ 
+Stephen Boyd's Note on Finite Horizon LQR:
+https://stanford.edu/class/ee363/lectures/dlqr.pdf
+
+ 
+
+Optimization perspective on iLQR (By Vincent Roulet1, Siddhartha Srinivasa, Dmitriy Drusvyatskiy, and Zaid Harchaoui):
+https://arxiv.org/pdf/1908.07615.pdf
+
+ 
+Sergey Levine's Lecture Note on Model-Base RL:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf
+
+ 
+
+Sergey Levine's Lecture Note on Model-Based Policy Learning:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-12.pdf
+
+ 
+Sergey Levine's Lecture Note on Imitate Optimal Control:
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_10_imitating_optimal_control.pdf
+
+ 
+
+Safe Model-Based RL (By Felix Berkenkamp, Matteo Turchetta, Angela P. Schoellig, and Andreas Krause):
+https://arxiv.org/pdf/1705.08551.pdf
