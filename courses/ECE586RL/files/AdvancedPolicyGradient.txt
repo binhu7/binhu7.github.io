@@ -1,0 +1,5 @@
+Sergey Levine's note on advanced policy gradient:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-9.pdf
+
+Katerina Fragkiadaki's note on TRPO and PPO:
+http://www.andrew.cmu.edu/course/10-703/slides/Lecture_NaturalPolicyGradientsTRPOPPO.pdf

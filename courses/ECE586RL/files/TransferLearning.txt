@@ -1,0 +1,8 @@
+Transfer learning:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-16.pdf
+
+Meta-Learning:
+https://sites.google.com/view/icml19metalearning
+
+Curriculum learning:
+https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html

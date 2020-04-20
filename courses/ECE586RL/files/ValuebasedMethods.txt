@@ -1,0 +1,13 @@
+More on TRPO:
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_13_advanced_pg.pdf
+
+value-based method:
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_6_value_functions.pdf
+
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_7_advanced_q_learning.pdf
+
+DDPG:
+https://arxiv.org/pdf/1509.02971.pdf
+
+Survey:
+http://busoniu.net/files/papers/arc18.pdf

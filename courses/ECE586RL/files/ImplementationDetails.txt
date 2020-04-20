@@ -1,0 +1,17 @@
+GAE:
+https://arxiv.org/pdf/1506.02438.pdf
+
+AC details:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-6.pdf
+
+finite sum optimization for neural network:
+http://katselis.web.engr.illinois.edu/ECE586/Lecture7.pdf
+
+Control Variate:
+https://arxiv.org/pdf/1611.02247.pdf
+
+ACTION-DEPENDENT FACTORIZED BASELINES:
+https://arxiv.org/pdf/1803.07246.pdf
+
+CombineILRL:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-19.pdf
