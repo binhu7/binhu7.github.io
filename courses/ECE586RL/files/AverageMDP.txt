@@ -1,0 +1,5 @@
+Dimitrios' Note on Average Cost MDPs:
+http://katselis.web.engr.illinois.edu/ECE586/Lecture12.pdf
+
+Natural AC for average cost MDP:
+https://pdfs.semanticscholar.org/c553/25ae70a6374500384242a5a04abdef879579.pdf
