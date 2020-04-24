@@ -1,0 +1,5 @@
+Note:
+https://kgatsis.github.io/learning_for_control_workshop_CDC2018/assets/slides/Lewis_CDC18.pdf
+
+Natural AC for average cost MDP:
+https://pdfs.semanticscholar.org/c553/25ae70a6374500384242a5a04abdef879579.pdf

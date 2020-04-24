@@ -1,0 +1,21 @@
+Nan Jiang's Book:
+https://rltheorybook.github.io/rl_monograph_AJK.pdf
+
+Csaba's Book:
+https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs-lecture.pdf
+
+Srikant's Paper:
+https://arxiv.org/pdf/1902.00923.pdf
+
+Policy Gradient:
+https://arxiv.org/pdf/1908.00261.pdf
+
+MAB:
+https://nanjiang.cs.illinois.edu/files/cs598/note_bandit.pdf
+http://katselis.web.engr.illinois.edu/ECE586/Lecture8.pdf
+
+
+
+
+
+
