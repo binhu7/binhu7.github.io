@@ -1,0 +1,13 @@
+Srikant's note:
+https://uofi.app.box.com/s/8khlv2zcwlbhtt3cwm4hwetiy6e1i817
+
+Original Paper on ODE method:
+https://epubs.siam.org/doi/pdf/10.1137/S0363012997331639?casa_token=r3pWVXKdgnEAAAAA:hPaRjirsk_VXFFC2ESBTFWEdBvhHtIlH6x6G3HYC308Ueyj265Xr1Cx8qQEQKng7iPAeZNRC2A
+
+Ramon van Handel's note on Stochastic Calculus:
+https://web.math.princeton.edu/~rvan/acm217/ACM217.pdf
+
+Lemma 4 in Niao's Paper:
+https://arxiv.org/pdf/1904.10945.pdf
+
+
