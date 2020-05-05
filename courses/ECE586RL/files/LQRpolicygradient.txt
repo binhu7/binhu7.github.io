@@ -1,0 +1,14 @@
+LQR policy gradient:
+https://arxiv.org/pdf/1801.05039.pdf
+
+LQR approximate PI:
+https://arxiv.org/pdf/1905.12842.pdf
+
+Two-point estimation:
+https://arxiv.org/pdf/1812.08305.pdf
+
+Jump system:
+https://arxiv.org/pdf/2002.04090.pdf
+
+Robust control:
+https://arxiv.org/pdf/1910.09496.pdf
