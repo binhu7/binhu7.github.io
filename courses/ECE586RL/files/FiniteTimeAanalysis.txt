@@ -1,0 +1,9 @@
+Finite Time Analysis of TD Learning:
+https://arxiv.org/pdf/1902.00923.pdf
+
+Finite Time Analysis of SARSA:
+https://papers.nips.cc/paper/9072-finite-sample-analysis-for-sarsa-with-linear-function-approximation.pdf
+
+Finite Time Analysis of Q-learning:
+https://optrl2019.github.io/assets/accepted_papers/50.pdf
+
