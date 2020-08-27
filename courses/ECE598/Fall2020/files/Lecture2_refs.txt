@@ -1,0 +1,6 @@
+Ref [1] mentioned in the lecture note:
+https://arxiv.org/pdf/1408.3595.pdf
+
+
+Prof. Boyd's slide on SDP (see page 36):
+http://web.stanford.edu/class/ee364a/lectures/problems.pdf
