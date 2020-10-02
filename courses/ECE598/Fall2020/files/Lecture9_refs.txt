@@ -1,0 +1,3 @@
+Dimirios' note on Optimal Bellman Equation, VI, and Contraction Mapping Theorem:
+
+http://katselis.web.engr.illinois.edu/ECE586/Lecture9.pdf
