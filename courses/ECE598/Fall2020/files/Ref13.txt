@@ -1,0 +1,16 @@
+Joshua's slides on TRPO:
+http://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_13_advanced_pg.pdf
+
+Original NPG paper from Sham Kakade:
+https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf
+
+Deep RL survey:
+https://arxiv.org/pdf/1811.12560.pdf?fbclid=IwAR3sArXMkmy7yL_baZJ2QLa1Ud8LaC8x6s-0VvXb8WEkdjzBOnck-DI-yBA
+
+Lilian's blog on policy gradient:
+https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
+
+Lilian's blog on ES (zeroth-order optimization):
+https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html
+
+
