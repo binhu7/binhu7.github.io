@@ -1,0 +1,11 @@
+Stephen Boyd's Note on Finite Horizon LQR:https://stanford.edu/class/ee363/lectures/dlqr.pdf
+
+Dimitry Gorinevsky's Note on MPC:
+https://web.stanford.edu/class/archive/ee/ee392m/ee392m.1056/Lecture14_MPC.pdf
+
+Francesco Borrelli's MPC course:
+http://www.mpc.berkeley.edu/mpc-course-material
+
+Sergey Levine's Lecture Note on Model-based Planing:http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf
+
+Sergey Levine's Lecture Note on Model-Base RL:http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf

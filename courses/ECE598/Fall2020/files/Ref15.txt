@@ -1,0 +1,15 @@
+Sergey Levine'S Lecture Note on Imitation Learning:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-2.pdf
+
+Emma Brunskill's Lecture Note on Inverse RL
+http://web.stanford.edu/class/cs234/CS234Win2019/slides/lnotes7.pdf
+
+Sergey Levine's Lecture Note on Inverse RL:
+http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-15.pdf
+
+Imitation Learning Tutorial (By Yisong Yue and Hoang M. Le):
+https://sites.google.com/view/icml2018-imitation-learning/
+
+Generative Adversarial Imitation Learning (By Jonathan Ho and Stefano Ermon):
+https://arxiv.org/pdf/1606.03476.pdf
+
