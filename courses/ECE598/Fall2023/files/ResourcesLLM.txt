@@ -1,0 +1,19 @@
+Lilian Weng's Blog Post: 
+https://lilianweng.github.io/posts/2019-01-31-lm/#gpt
+
+Papers on "Control for LLM":
+https://openreview.net/forum?id=X2gjYmy77l 
+https://openreview.net/forum?id=HgVEz6wwbM
+https://arxiv.org/pdf/2310.14201.pdf
+
+Papers on "LLM for Decisions and Control":
+https://openreview.net/forum?id=IKOAJG6mru
+https://openreview.net/forum?id=NkYCuGM7E2
+https://openreview.net/forum?id=5aHmaMFJns
+
+Adversarial Attacks on LLMs:
+https://llm-attacks.org/#
+
+
+Safe RLHF:
+https://openreview.net/pdf?id=TyFrPOKYXw
