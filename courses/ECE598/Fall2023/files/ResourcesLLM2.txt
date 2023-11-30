@@ -1,0 +1,35 @@
+Lilian Weng's Blog Post: 
+https://lilianweng.github.io/posts/2023-06-23-agent/
+
+Chain of Thoughts:
+https://arxiv.org/pdf/2201.11903.pdf
+
+Tree of Thoughts:
+https://arxiv.org/pdf/2305.10601.pdf
+
+Graph of Thoughts:
+https://arxiv.org/pdf/2308.09687.pdf
+
+Boosting of Thoughts:
+https://openreview.net/forum?id=qBL04XXex6
+
+Skeleton-of-Thought:
+https://openreview.net/forum?id=mqVgBbNCm9
+
+Rationality of Thought:
+https://openreview.net/forum?id=kaGA40pfFY
+
+Diversity of Thought:
+https://openreview.net/forum?id=FvfhHucpLd
+
+Thought Propagation:
+https://openreview.net/forum?id=SBoRhRCzM3
+
+Chain of Image:
+https://openreview.net/forum?id=FE6WxgrOWP
+
+Chain of Tables:
+https://openreview.net/forum?id=4L0xnS4GQM
+
+LLM with Monte Carlo Tree Search:
+https://arxiv.org/pdf/2305.14992.pdf
