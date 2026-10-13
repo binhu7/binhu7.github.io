@@ -1,0 +1,8 @@
+Reinforcement Learning for Control:
+https://busoniu.net/files/papers/arc18.pdf
+
+Imitation Learning for Control:
+https://underactuated.mit.edu/imitation.html
+
+Safety Filter for Learning-Based Control:
+https://ieeexplore.ieee.org/document/10266799
